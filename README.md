@@ -12,7 +12,7 @@ Next.js (React Framework)
 Utilized for fast, server-side rendering and efficient routing for an optimal user experience.
 
 **Backend:**
-Node.js with Express for handling API requests and server-side logic.
+Next.js with Express for handling API requests and server-side logic.
 MongoDB (NoSQL Database) for storing user profiles, job listings, and transactions.
 
 **Security:**
@@ -53,7 +53,7 @@ Installation
 
 **Prerequisites:**
 Make sure you have the following installed:
-Node.js
+Next.js
 MongoDB (For local or cloud database setup)
 
 **GitSteps:**
