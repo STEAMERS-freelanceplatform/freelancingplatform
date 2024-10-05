@@ -1,4 +1,4 @@
-#Freelancing Platform for Punjab Gig Workers
+#==Freelancing Platform for Punjab Gig Workers==
 
 **Overview**
 This project is a freelancing platform designed to support gig workers in Punjab by offering them a localized 
