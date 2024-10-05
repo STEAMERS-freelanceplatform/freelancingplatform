@@ -81,6 +81,7 @@ npm start
 
 **Folder Structure**
 freelancing-platform/ <br>
+
 ├── components/        # React components for UI (header, footer, etc.) <br>
 ├── pages/             # Next.js pages (index.js, jobs.js, profile.js, etc.) <br>
 ├── models/            # Mongoose models (User.js, Job.js, etc.) <br>
