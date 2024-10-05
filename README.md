@@ -1,4 +1,4 @@
-**Freelancing Platform for Punjab Gig Workers**
+#Freelancing Platform for Punjab Gig Workers**
 
 **Overview**
 This project is a freelancing platform designed to support gig workers in Punjab by offering them a localized 
@@ -81,7 +81,7 @@ npm start
 
 **Folder Structure**
 freelancing-platform/
-├── components/        # React components for UI (header, footer, etc.)
+├── components/        # React components for UI (header, footer, etc.) <br>
 ├── pages/             # Next.js pages (index.js, jobs.js, profile.js, etc.)
 ├── models/            # Mongoose models (User.js, Job.js, etc.)
 ├── api/               # API routes and backend logic
