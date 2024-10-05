@@ -1,11 +1,11 @@
-#Freelancing Platform for Punjab Gig Workers
+# Freelancing Platform for Punjab Gig Workers
 
-**Overview**
-This project is a freelancing platform designed to support gig workers in Punjab by offering them a localized 
+## Overview
+""This project is a freelancing platform designed to support gig workers in Punjab by offering them a localized 
 and intuitive way to connect with potential clients. It includes features such as profile management, 
-a job posting system, real-time messaging, and a tier-based freelancer evaluation system, ensuring a fair and transparent work environment.
+a job posting system, real-time messaging, and a tier-based freelancer evaluation system, ensuring a fair and transparent work environment.""
 
-**Technology Stack**
+## Technology Stack <br>
 Our platform utilizes a robust technology stack to ensure scalability, security, and efficiency:
 **Frontend:**
 Next.js (React Framework)
@@ -99,12 +99,12 @@ Fork the repository.
 Create a new branch for your feature or bug fix:
 git checkout -b feature/your-feature-name
 
-Commit your changes:
+## Commit your changes:
 git commit -m "Add feature"
 
 Push to your branch:
 git push origin feature/your-feature-name
 Create a pull request to have your code reviewed and merged.
 
-**License**
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
